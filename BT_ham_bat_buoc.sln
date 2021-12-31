@@ -15,7 +15,7 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{18B4655D-C34F-4BBD-9874-0937B56AA0E9}.Debug|x64.ActiveCfg = Debug|x64
 		{18B4655D-C34F-4BBD-9874-0937B56AA0E9}.Debug|x64.Build.0 = Debug|x64
-		{18B4655D-C34F-4BBD-9874-0937B56AA0E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{18B4655D-C34F-4BB-9874-0937B56AA0E9}.Debug|x86.ActiveCfg = Debug|Win32
 		{18B4655D-C34F-4BBD-9874-0937B56AA0E9}.Debug|x86.Build.0 = Debug|Win32
 		{18B4655D-C34F-4BBD-9874-0937B56AA0E9}.Release|x64.ActiveCfg = Release|x64
 		{18B4655D-C34F-4BBD-9874-0937B56AA0E9}.Release|x64.Build.0 = Release|x64
@@ -29,5 +29,5 @@ Global
 		SolutionGuid = {D8386A2B-84A5-491A-ACFE-0476C4FC4A0D}
 	EndGlobalSection
 EndGlobal
-ppp
+
 //alo 1234567
